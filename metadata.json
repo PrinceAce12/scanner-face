@@ -1,0 +1,5 @@
+{
+  "name": "Face ID App",
+  "description": "Real-time facial recognition web application using Next.js and DeepFace.",
+  "requestFramePermissions": ["camera"]
+}
